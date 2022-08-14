@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/robin_2_1" target="blank"><img src="https://img.shields.io/twitter/follow/robin_2_1?logo=twitter&style=for-the-badge" alt="robin_2_1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/robin_2_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robin_2_1" height="30" width="40" /></a>
-<a href="https://fb.com/robin maheshwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robin maheshwary" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/Robin_2_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robin_2_1" height="30" width="40" /></a>
+<a href="https://fb.com/Robin Maheshwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robin maheshwary" height="30" width="40" /></a>
 <a href="https://instagram.com/rob_in_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rob_in_001" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/robin0906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="robin0906" height="30" width="40" /></a>
 </p>
