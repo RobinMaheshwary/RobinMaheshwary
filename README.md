@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Maheshwary</h1>
-<h3 align="center">A learner geek from India, currently learning Android App Development</h3>
+<h3 align="center">A learner geek from India, currently working on Machine learning and Deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinmaheshwary&label=Profile%20views&color=0e75b6&style=flat" alt="robinmaheshwary" /> </p>
 
