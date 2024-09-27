@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robin Maheshwary</h1>
-<h3 align="center">currently SWE Trainee @ KPIT Technologies</h3>
+<h3 align="center">Graduate Engineer Trainee @ VWITS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinmaheshwary&label=Profile%20views&color=0e75b6&style=flat" alt="robinmaheshwary" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinmaheshwary" alt="robinmaheshwary" /></a> </p>
-
-- 🔭 I’m currently working on **Employee Management using spring boot and Angular**
-
-- 🌱 I’m currently learning **Spring Boot, Angular**
 
 - 📫 How to reach me **maheshwary.robin@gmail.com**
 
